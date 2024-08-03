@@ -1,26 +1,15 @@
-😸 Hola, soy @rainbowkode
+😸 Hello world! I'm @rainbowkode.
 
-🌟 Mis intereses son la ciencia, tecnología, robótica, química y ciberseguridad.
+💻 Member of XYZ Team - Learning to develop software & Applications.
 
-📚 Estoy aprendiendo actualmente sobre sistemas microinformáticos y redes.
+🌟 Doing research in the fields of Sciences, Technology, Engineering, Robotics, Artificial Intelligence, Neuro Sciences and Cybersecurity.
 
-🤝 Me gustaría colaborar en proyectos de informática y tecnología.
+📚 Full-Stack Developer 
 
-📧 Puedes contactarme en rainbow@rainbowtechnology.xyz
+🤝 Seeking involvement in Computer Science and the Development of Technology and Software Applications
 
-🌈 Pronombres: Non-Binary.
+📧 Feel free to reach me at rainbow@rainbowtechnology.xyz
 
-🎉 Dato curioso: Me defino como un "Non-Binary, Soft, Cyberpunk Neko" y amo el humor negro, cursed, y shitpost.
+🎉 Fun Fact: Sometimes i refer to myself as a Non-Binary Cyber-Soft Neko 
 
-
-
-
-
-
-
-
-
-<!---
-rainbowkode/rainbowkode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌈 Rainbowtechnology.xyz
